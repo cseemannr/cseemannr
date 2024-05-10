@@ -2,11 +2,9 @@
 
 ### Frontend Developer Jr
 
-<br/>
-<a href="https://www.linkedin.com/in/cseemann" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-efefef?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
-</a>
-<a href="https://camilaramos.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-efefef?style=for-the-badge&logo=todoist&logoColor=FF5722" /></a>
-<a href="mailto:camilaseemannramos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/camilaseemannramos@gmail.com-efefef?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-efefef?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/cseemann/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-efefef?style=for-the-badge&logo=todoist&logoColor=FF5722)](https://camilaramos.netlify.app)
+[![Gmail](https://img.shields.io/badge/camilaseemannramos@gmail.com-efefef?style=for-the-badge&logo=gmail&logoColor=red)](mailto:camilaseemannramos@gmail.com)
 
 ## About
 
